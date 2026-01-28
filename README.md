@@ -93,4 +93,7 @@ find your documentation here;
 
 [DEPLOY A CONTAINERISED APP USING DOCKER AND DOCKER COMPOSE.pdf](https://github.com/user-attachments/files/24900420/DEPLOY.A.CONTAINERISED.APP.USING.DOCKER.AND.DOCKER.COMPOSE.pdf)
 
+Next improvements;
+add SQLite database
+
 
