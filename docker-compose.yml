@@ -1,5 +1,13 @@
+version: '3.8'
+
 services:
   todo-app:
     build: .
     ports:
       - "5000:5000"
+    volumes:
+      - ./templates:/app/templates
+      - ./app.py:/app/app.py
+    environment:
+      - FLASK_ENV=development
+    restart: unless-stopped
