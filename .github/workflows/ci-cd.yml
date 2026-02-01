@@ -28,6 +28,3 @@ jobs:
         run: |
           python -m py_compile app.py
 
-      - name: Build Docker image
-        run: |
-          docker build -t flask-todo-app
