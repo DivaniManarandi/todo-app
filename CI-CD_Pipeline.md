@@ -141,8 +141,7 @@ This step:
 Tags the image with your Docker Hub username
 Pushes the image to Docker Hub
 
-Image name becomes:
-username / flask-todo-app:latest
+
 
 
 
